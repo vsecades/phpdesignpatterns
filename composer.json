@@ -1,0 +1,7 @@
+{
+	"name": "php-design-patterns/base-pattern",
+	"description": "A base reference library for common design patterns, based on the gang of four book by Gamma, Helm, Johnson and Vlissides",
+	"require": {
+		"php": "^5.5.9 || ^7.0"
+	}
+}
